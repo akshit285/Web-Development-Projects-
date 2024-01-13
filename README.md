@@ -1,5 +1,3 @@
-Tic Tac Toe game using HTML, CSS and Javascript
-
 🔑**Site Link -** https://akshit285.github.io/
 
 # Tic Tac Toe Game Documentation
