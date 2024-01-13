@@ -75,11 +75,17 @@ The Tic Tac Toe Game is a web-based two-player game that allows users to play th
 - It contains an image, game title, and a "Let's Play" button.
 - The pop-up window can be closed to start the game.
 
+![Screenshot (64)](https://github.com/akshit285/Web-Development-Projects-/assets/98079528/c8c7a0f0-a5ca-46d3-8fe7-b256f759c339)
+
+
 #### Game Board
 - The game board consists of a 3x3 grid of input fields.
 - Players click on empty fields to place their symbols ("O" or "X").
 - The game keeps track of player turns and displays the current player's symbol.
 - A result message is shown below the board to indicate the game outcome.
+
+![Screenshot (63)](https://github.com/akshit285/Web-Development-Projects-/assets/98079528/8077fd56-5bb5-467f-9499-f38a4e889a56)
+
 
 #### Game Controls
 - Play and pause buttons are provided to control the background music.
